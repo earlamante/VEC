@@ -1,0 +1,20 @@
+body {
+    background: #c0c0c0;
+}
+img {
+    max-width: 100%;
+}
+.ui-accordion .ui-accordion-header {
+    font-size: 21px;
+}
+.logo-wrapper {
+    display: inline-block;
+    min-width: 350px;
+    padding: 30px;
+}
+#accordion {
+    margin-bottom: 50px;
+}
+#accordion > div {
+    /*margin-bottom: 30px;*/
+}
